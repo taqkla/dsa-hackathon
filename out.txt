@@ -1,0 +1,6 @@
+www.tinyurl.com/b
+www.tinyurl.com/c
+www.tinyurl.com/d
+https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017
+https://docs.google.com/document/d/1zF4xTnMP75W-HdCf-5jsbUrDVl87_ShXFY0bnDnmMFA/edit#
+https://www.google.com/search?q=cycle+in+a+graph&oq=cycle+in+a+graph+&aqs=chrome..69i57.4928j0j7&sourceid=chrome&ie=UTF-8
